@@ -14,7 +14,7 @@ $ docker run  -d -P --name apache-2 tonifp/myapache:v0
 ````
 -----
 
- [GitHub on està aquest projecte](https://github.com/toni-franco/Curset)
+ [GitHub on està aquest projecte](https://github.com/VicentMY/Curset-docker)
 
 
 ![This is an image](https://boxboat.com/2018/12/07/docker-ce-vs-docker-ee/featured.png)
